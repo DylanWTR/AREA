@@ -1,0 +1,266 @@
+{
+  "basic": {
+    "actions": {
+      "add": "Ajouter",
+      "cancel": "Annuler",
+      "confirm": "Confirmer",
+      "delete": "Supprimer",
+      "draft": "Brouillon",
+      "edit": "Éditer",
+      "modify": "Modifier",
+      "no": "Non",
+      "ok": "Ok",
+      "save": "Sauvegarder",
+      "search": "Rechercher",
+      "valid": "Valider",
+      "yes": "Oui",
+      "wait": "Veuillez patienter...",
+      "or": "ou",
+      "next": "Suivant",
+      "previous": "Précédent",
+      "finish": "Terminer",
+      "reset": "Réinitialiser"
+    },
+    "date": {
+      "display": "{{day}}/{{month}}",
+      "format": "DD-MM-YYYY",
+      "full": "dddd DD MMMM YYYY",
+      "withHour": "Do MMMM YYYY, H:mm:ss",
+      "year": "Année",
+      "week": "semaine",
+      "hour": "heure",
+      "minute": "minute",
+      "second": "seconde"
+    },
+    "days": {
+      "mon": "Lundi",
+      "tue": "Mardi",
+      "wed": "Mercredi",
+      "thu": "Jeudi",
+      "fri": "Vendredi",
+      "sat": "Samedi",
+      "sun": "Dimanche",
+      "today": "Aujourd'hui",
+      "yesterday": "Hier",
+      "tomorrow": "Demain"
+    },
+    "fields": {
+      "keepMeLoggedIn": "Rester connecté",
+      "address": "Adresse",
+      "condition": "Condition",
+      "confirmPassword": "Confirmer le mot de passe",
+      "country": "Pays",
+      "description": "Description",
+      "email": "Mail",
+      "firstName": "Prénom",
+      "franchise": "Franchise",
+      "lastName": "Nom",
+      "name": "Nom",
+      "password": "Mot de passe",
+      "phone1": "Téléphone principal",
+      "phone2": "Téléphone secondaire",
+      "socialNetwork": "Réseaux sociaux",
+      "state": "Etat",
+      "store": "Magasin",
+      "streetNumber": "Numéro",
+      "title": "Titre",
+      "type": "Type",
+      "website": "Site internet",
+      "zipCode": "Code postal",
+      "submit": "Envoyer"
+    },
+    "hours": {
+      "12am": "Minuit",
+      "2am": "2h",
+      "4am": "4h",
+      "6am": "6h",
+      "8am": "8h",
+      "10am": "10h",
+      "12pm": "Midi",
+      "2pm": "14h",
+      "4pm": "16h",
+      "6pm": "18h",
+      "8pm": "20h",
+      "10pm": "22h"
+    },
+    "misc": {
+      "rows": "ligne par page"
+    },
+    "months": {
+      "january": "Janvier",
+      "february": "Février",
+      "march": "Mars",
+      "april": "Avril",
+      "may": "Mai",
+      "june": "Juin",
+      "july": "Juillet",
+      "august": "Août",
+      "september": "Septembre",
+      "october": "Octobre",
+      "november": "Novembre",
+      "december": "Décembre"
+    }
+  },
+  "navigation": {
+    "home": "Accueil",
+    "dashboard": "Tableau de bord",
+    "settings": "Paramètres",
+    "logout": "Déconnexion"
+  },
+  "demo_guides": {
+    "automation": {
+      "title": "L'automatisation est la clé",
+      "description": "Gagnez du temps et faites-en plus"
+    },
+    "connect": {
+      "p1": "Connectez votre service préféré pour créer",
+      "p2": "un numérique transparent directement depuis votre",
+      "p3": "téléphone intelligent.",
+      "el1" : "Déclencheurs et réactions intelligents",
+      "el2" : "Synchronisé avec l'application Web",
+      "el3" : "Sécurisé et privé"
+    },
+    "card1": {
+      "title": "Créez des workflows personnalisés en quelques minutes",
+      "description": "Automatisez les tâches répétitives, pour que vous puissiez vous concentrer sur votre travail, pas sur vos outils. Nous allons vous montrer comment."
+    },
+    "card2": {
+      "title": "Obtenez plus de vos outils",
+      "description": "Intégrez vos applications de travail essentielles dans des workflows, récupérez votre temps et concentrez-vous sur le travail à impact."
+    },
+    "card3": {
+      "title": "Connectez les applications que vous aimez déjà",
+      "description": "Zapier prend en charge plus d'applications que n'importe quelle autre plateforme, vous pouvez donc optimiser les outils que vous utilisez."
+    }
+  },
+  "settings": {
+    "headerTitle": "Paramètres",
+    "placeholder": "saisir le texte de recherche",
+    "enabled": "Activé",
+    "disabled": "Désactivé",
+    "settingScreen": {
+      "profile": {
+        "title": "Paramètres général",
+        "pic": "Image de profil",
+        "name": "Nom",
+        "email": "Mail",
+        "phone": "Numéro de téléphone",
+        "pushNotif": "Notifications push",
+        "emailNotif": "Notifications mail",
+        "mode": "Thème sombre"
+      },
+      "connectedServices": {
+        "title": "Services connectés",
+        "description": "Gérez vos services connectés"
+      },
+      "help": {
+        "title": "Aide et support",
+        "description": "Obtenez de l'aide",
+        "bug": "Signaler un bug",
+        "feature": "Suggérer une fonctionnalité",
+        "question": "Poser une question",
+        "other": "Autre",
+        "textAreaPlaceholder": "Décrivez votre problème ici"
+      },
+      "languages": {
+        "title": "Langues",
+        "description": "Choisissez votre langue",
+        "english": "Anglais",
+        "french": "Français",
+        "spanish": "Espagnol"
+      }
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Connexion",
+      "welcome": "Bon retour parmis nous !"
+    },
+    "register": {
+      "title": "Inscrivez-vous",
+      "welcome": "Créez un compte pour commencer !"
+    },
+    "forgotPassword": {
+      "title": "Mot de passe oublié",
+      "welcome": "Entrez votre adresse mail pour réinitialiser votre mot de passe."
+    },
+    "resetPassword": {
+      "title": "Réinitialiser le mot de passe",
+      "welcome": "Entrez votre nouveau mot de passe."
+    },
+    "rightArea": {
+      "text": "Reliez vos applications préférées et simplifiez-vous la vie en utilisant la puissance de l'automatisation."
+    },
+    "passwordForgotten": "Mot de passe oublié ?",
+    "noAccount": "Pas encore de compte ?",
+    "haveAccount": "Déjà un compte ?",
+    "terms": "Acceptez nos conditions d'utilisation."
+  },
+  "home": {
+    "create": {
+      "title": "Créer un Zap",
+      "action1": "Connecter ce service...",
+      "reaction1": "...avec celui-ci.",
+      "action2": "Choisir un Déclencheur",
+      "reaction2": "Choisir une Réaction",
+      "authorize": "Connecter",
+      "connected": "Déjà Connecté",
+      "disabled": "Autoriser les Services",
+      "enabled": "Essayer!",
+      "service": "🔎 Sélectionner un service",
+      "name": "Nom de l'automation"
+    },
+    "recommendedSection": {
+      "serviceTitle": "Nos services"
+    }
+  },
+  "dashboard": {
+    "filter": "Filtrer les automatisations",
+    "service": "Service",
+    "name": "Nom",
+    "authorized": "Services Autorisés",
+    "polled": "Dernière automation",
+    "created": "Créé il y a",
+    "delete": "Supprimer",
+    "running": "Active",
+    "confirm": "Êtes-vous sûr de vouloir supprimer ?",
+    "cancel": "Annuler",
+    "ok": "OK",
+  "makeSure": {
+    "part1": "Pour garantir le bon fonctionnement de l'automatisation, assurez-vous qu'elle est ",
+    "bold1": "activée",
+    "part2": " et que vous êtes ",
+    "bold2": "connecté",
+    "part3": " aux services nécessaires."
+  }
+  },
+  "actions": {
+    "AddToPlaylist": "Ajoute automatiquement une chanson à une playlist désignée.",
+    "UploadToDrive": "Télécharge automatiquement des fichiers sur Google Drive lorsqu'il est déclenché.",
+    "SendMail": "Envoyez un e-mail à vous-même.",
+    "SendMessage": "Envoyez un message à vous-même.",
+    "AddEventsCalendar": "Ajoute des événements à Google Calendar.",
+    "AddEventsTeams": "Ajoute des événements à Teams."
+  },
+  "triggers": {
+    "LikeSong": "Se déclenche lorsque vous aimez une chanson sur des plateformes comme YouTube, Spotify.",
+    "NewAttachment": "Se déclenche lors de la réception de nouvelles pièces jointes dans les e-mails.",
+    "NewFile": "Se déclenche lorsque de nouveaux fichiers sont ajoutés à Drive.",
+    "TodayEvent": "Se déclenche lorsque qu'un événement du calendrier a lieu le jour en cours.",
+    "TodayWeather": "Se déclenche pour fournir des informations météorologiques quotidiennes.",
+    "UpcomingEventsTeams": "Se déclenche lorsque des événements à venir surviennent dans Teams.",
+    "UpcomingEventsCalendar": "Se déclenche lorsque des événements à venir surviennent dans Google Calendar.",
+    "NewVideo": "Se déclenche lorsque la chaîne à laquelle l'utilisateur est abonné télécharge une nouvelle vidéo."
+  },
+  "services": {
+    "google_drive": "Google Drive vous permet de stocker et d'accéder à vos fichiers n'importe où, sur le web, sur votre disque dur ou en déplacement.",
+    "google_calendar": "Un service de calendrier pour la gestion du temps et la planification.",
+    "gmail": "Un service de messagerie gratuit développé par Google. Les utilisateurs peuvent accéder à Gmail sur le web et via des programmes tiers qui synchronisent le contenu des e-mails via les protocoles POP ou IMAP.",
+    "spotify": "Un service de streaming musical numérique qui vous donne accès à des millions de chansons, de podcasts et de vidéos d'artistes du monde entier.",
+    "youtube": "Une plateforme qui permet aux utilisateurs de télécharger, de regarder, de noter, de partager et de commenter des vidéos.",
+    "open_meteo": "Une API météo gratuite.",
+    "teams": "Microsoft Teams est un outil de communication et de collaboration unifié."
+  },
+  "error": "Quelque chose s'est mal passé",
+  "code": "fr"
+}

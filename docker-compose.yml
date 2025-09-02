@@ -1,0 +1,20 @@
+version: "3"
+
+services:
+  server:
+    image: $CI_REGISTRY_IMAGE/server:latest
+    env_file: .env
+    container_name: server
+    platform: linux/amd64
+    restart: on-failure
+    ports:
+      - "8080:8080"
+
+  client_web:
+    image: $CI_REGISTRY_IMAGE/client_web:latest
+    env_file: .env
+    container_name: client_web
+    platform: linux/amd64
+    restart: on-failure
+    ports:
+      - "8081:8081"
