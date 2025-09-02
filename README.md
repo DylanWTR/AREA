@@ -97,10 +97,11 @@ The database is use is **Mongodb** but for visualization purposes with design th
 
 ## Core maintainers :sunglasses:
 
-- [Yann DEMUYT](https://github.com/demisIsTired)
-- [Jules DUTEL](https://github.com/jvlxz)
-- [Lucas HISSINGER](https://github.com/LucasHissinger)
-- [Dylan WINTER](https://github.com/DylanWTR)
+- Kevin Carttigueane
+- Yann DEMUYT
+- Jules DUTEL
+- Lucas HISSINGER
+- Dylan WINTER
 
 ---
 
